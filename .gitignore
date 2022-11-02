@@ -5,4 +5,5 @@ _site/
 *.pdf
 .DS_Store
 .liquidrc
+Gemfile.lock
 
