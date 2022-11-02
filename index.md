@@ -8,13 +8,16 @@
 layout: home
 ---
 
-### Facet <span style="color:#440027;font-size:small"><em>noun</em></span>
+### Uproot <span style="color:#440027;font-size:small"><em>verb</em></span>
 
-**fac·et** | \ ˈfa-sət
+up·​root | \ (ˌ)əp-ˈrüt, -ˈru̇t \   
+uprooted; uprooting; uproots   
 
-1. any of the definable aspects that make up a subject or an object. Ex. _Each facet of the problem requires careful attention_.
-2. a small plane surface.
-3. the external corneal surface of an ommatidium. (_[Merriam-Webster](https://www.merriam-webster.com/dictionary/facet)_)
+transitive verb   
+1 : to remove as if by pulling up   
+2 : to pull up by the roots   
+3 : to displace from a country or traditional habitat   
+ (_[Merriam-Webster](https://www.merriam-webster.com/dictionary/uproot)_)   
 
 ---
 
