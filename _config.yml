@@ -13,7 +13,7 @@ baseurl: "/wax-facets"
 # COLLECTION SETTINGS
 # --------------------------------------------------------------
 # Wax leverages Jekyll collections for much of its
-# functionality, therefor some of the keys below are from
+# functionality, therefore some of the keys below are from
 # Jekyll while others are Wax-specific.
 # For more info, refer to:
 # ~> https://jekyllrb.com/docs/collections/
@@ -59,19 +59,20 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: "Exhibits"
+  - label: "About"
     sub:
-      - label: "Parallax Images"
-        link: "/exhibits/parallax/"
-      - label: "Image References"
-        link: "/exhibits/references/"
-      - label: "Subset Collection"
-        link: "/exhibits/subset/"
-  - label: "Browse"
+      - label: "Credits"
+        link: "/about/credits/"
+  - label: "Stories"
+    sub:
+      - label: "New Haven in 1909"
+        link: "/stories/1909/"
+      - label: "From Beyond the Grave 2012"
+        link: "/stories/2012/"
+      - label: "Time Capsule Today 2022"
+        link: "/stories/2022/"
+    link: "/stories/"
+  - label: "Collection"
     link: "/collection/"
   - label: "Search"
     link: "/search/"
-  - label: "How To"
-    link: "/learning/"
-  - label: "About"
-    link: "/about/"
