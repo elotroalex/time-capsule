@@ -60,7 +60,11 @@ search:
 
 menu:
   - label: "About"
-    link: "/about"
+    sub:
+      - label: "About"
+        link: "/about"
+      - label: "Credits"
+        link: "/credits"
   - label: "Stories"
     sub:
       - label: "New Haven in 1909"
