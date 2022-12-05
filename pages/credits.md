@@ -1,11 +1,48 @@
 ---
 layout: page
 title: Credits
-permalink: /about/credits/
+permalink: /credits/
 ---
+<br>
+### Our team
 
-This site's sample collection comprises a set of objects, each of which is represented by one or more images. The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+- Isabela Alvarado
+- Madeleine Cepeda-Hanley
+- Estelle Guéville - Ph.D. student in Medieval Studies, Yale University
+- Michelle Lacoste Adunka - Ph.D. student in History, Pontificia Universidad Católica de Chile
+- Alan Mendoza - Ph.D. student in Spanish and Portuguese, Yale University
+- Serena Strecker - Ph.D. student in History, Yale University
 
-In the Tags category you can see an example of multiple values being separated from each other. Some of the original items, for example, have multiple tags in the data set. Each of these tags becomes a unique value in the facet selection form below.
+- Alex Gil, Ph.D. - Senior Lecturer II & Associate Research Faculty of Digital Humanities, , Yale University
 
-{% include gallery.html facet_by='object_type|location|tags*' collection='qatar' num_column=4 %}
+<br>
+
+### With the support of
+
+- **Nicholas F. Bellantoni**, PhD - State Archaeologist in charge of the discovery
+Emeritus Connecticut State Archaeologist
+Connecticut State Museum of Natural History/Anthropology
+University of Connecticut
+ 
+- **Edward Surato**, PhD - Librarian at the New Haven Museum
+Whitney Library, New Haven Museum
+ 
+- **Gary P. Aronsen**, Ph.D. - Analysis of the skeletal remains
+Biological Anthropology Laboratories, Yale University
+ 
+- **Gerald Conlogue**, Ph.D. - Radiography 
+Professor Emeritus in Diagnostic Imaging, Quinnipiac University
+
+- **Ronald G. Beckett**, Ph.D. - Endoscopy
+Professor Emeritus in Biomedical Sciences, Quinnipiac University 
+
+- **Robert B. Lombardo** - Radiography
+Adjunct Professor of Diagnostic Imaging, Quinnipiac University
+Forensic Imaging Consultant / Specialist
+Office of the State Chief Medical Examiner, Farmington CT
+ 
+- **Vikram Butani** - Provided access to the Kubtec facility
+Chief Executive Officer, Kubtec Medical Imaging in Stratford, Connecticut
+ 
+- **Chester Lowe**, Ph.D. - Industrial radiography.
+Chief Technology Officer, Kubtec Medical Imaging in Stratford, Connecticut
