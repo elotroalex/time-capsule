@@ -1,49 +1,87 @@
 ---
 sitemap: false
 ---
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * century-old-style-std:
+ *   - http://typekit.com/eulas/000000000000000000013088
+ *   - http://typekit.com/eulas/000000000000000000013089
+ *   - http://typekit.com/eulas/00000000000000000001308a
+ * news-gothic-std:
+ *   - http://typekit.com/eulas/00000000000000000001316b
+ *   - http://typekit.com/eulas/00000000000000000001316c
+ *   - http://typekit.com/eulas/00000000000000000001316e
+ *   - http://typekit.com/eulas/00000000000000000001316d
+ *
+ * © 2009-2022 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2022-12-05 22:03:17 UTC"}*/
 
-/* open-sans-300 - latin */
+@import url("https://p.typekit.net/p.css?s=1&k=uyh2jas&ht=tk&f=6835.6836.6837.6838.18282.18283.18284&a=134371552&app=typekit&e=css");
+
 @font-face {
-  font-family: "Open Sans Light";
-  font-style: normal;
-  font-weight: 300;
-  src: url('{{ "/assets/fonts/OpenSans/open-sans-v18-latin-300.eot" | absolute_url }}'); /* IE9 Compat Modes */
-  src: local(""),
-    url('{{ "/assets/fonts/OpenSans/open-sans-v18-latin-300.woff2" | absolute_url }}')
-      format("woff2"),
-    /* Super Modern Browsers */
-      url('{{ "/assets/fonts/OpenSans/open-sans-v18-latin-300.woff" | absolute_url }}')
-      format("woff");
+font-family:"news-gothic-std";
+src:url("https://use.typekit.net/af/6fec89/00000000000000000001316b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/6fec89/00000000000000000001316b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/6fec89/00000000000000000001316b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
 }
 
-/* open-sans-regular - latin */
 @font-face {
-  font-family: "Open Sans Regular";
-  font-style: normal;
-  font-weight: 400;
-  src: url('{{ "/assets/fonts/OpenSans/open-sans-v18-latin-regular.eot" | absolute_url }}');
-  src: local(""),
-    url('{{ "/assets/fonts/OpenSans/open-sans-v18-latin-regular.woff2" | absolute_url }}')
-      format("woff2"),
-    /* Super Modern Browsers */
-      url('{{ "/assets/fonts/OpenSans/open-sans-v18-latin-regular.woff" | absolute_url }}')
-      format("woff");
+font-family:"news-gothic-std";
+src:url("https://use.typekit.net/af/e3df1b/00000000000000000001316c/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/e3df1b/00000000000000000001316c/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/e3df1b/00000000000000000001316c/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
 }
+
+@font-face {
+font-family:"news-gothic-std";
+src:url("https://use.typekit.net/af/10af2c/00000000000000000001316e/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/10af2c/00000000000000000001316e/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/10af2c/00000000000000000001316e/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"news-gothic-std";
+src:url("https://use.typekit.net/af/a5a677/00000000000000000001316d/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/a5a677/00000000000000000001316d/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/a5a677/00000000000000000001316d/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"century-old-style-std";
+src:url("https://use.typekit.net/af/070ec7/000000000000000000013088/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/070ec7/000000000000000000013088/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/070ec7/000000000000000000013088/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"century-old-style-std";
+src:url("https://use.typekit.net/af/660cc5/000000000000000000013089/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/660cc5/000000000000000000013089/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/660cc5/000000000000000000013089/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"century-old-style-std";
+src:url("https://use.typekit.net/af/942e0d/00000000000000000001308a/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/942e0d/00000000000000000001308a/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/942e0d/00000000000000000001308a/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-news-gothic-std { font-family: "news-gothic-std",sans-serif; }
+.tk-century-old-style-std { font-family: "century-old-style-std",serif; }
 
 /* text */
 
-$body-font: "Open Sans Regular", "Verdana", "sans-serif";
-$heading-font: "Open Sans Light", "Verdana", "sans-serif";
+$body-font: "news-gothic-std", "sans-serif";
+$heading-font: "century-old-style-std", "serif";
 
 /* Colors */
 
 $dark-background: #385c15;
-$light-text: #d49a6a;
-$light-link: #ffd1aa;
+$light-text: #ffe4cf;
+$light-link: #fcfbc7;
 $light-link-hover: #fff;
-$medium-background: #801515;
-$light-background: #f7e4ef;
-$dark-text: #444444;
+$medium-background: #385c15;
+$light-background: #fcfbc7;
+$dark-text: #262b26;
 $code: #3c1553;
 $muted-text: #777777;
 
