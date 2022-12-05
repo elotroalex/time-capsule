@@ -8,7 +8,7 @@
 layout: home
 ---
 
-### Uproot <span style="color:#440027;font-size:small"><em>verb</em></span>
+### Uproot <span style="color:#385c15;font-size:small"><em>verb</em></span>
 
 up·​root | \ (ˌ)əp-ˈrüt, -ˈru̇t \   
 uprooted; uprooting; uproots   
