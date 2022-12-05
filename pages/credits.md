@@ -4,20 +4,21 @@ title: Credits
 permalink: /credits/
 ---
 <br>
-### Our team
 
-- Isabela Alvarado
-- Madeleine Cepeda-Hanley
-- Estelle Guéville - Ph.D. student in Medieval Studies, Yale University
-- Michelle Lacoste Adunka - Ph.D. student in History, Pontificia Universidad Católica de Chile
-- Alan Mendoza - Ph.D. student in Spanish and Portuguese, Yale University
-- Serena Strecker - Ph.D. student in History, Yale University
+## Our team
 
-- Alex Gil, Ph.D. - Senior Lecturer II & Associate Research Faculty of Digital Humanities, , Yale University
+- **Isabela Alvarado** - 
+- **Madeleine Cepeda-Hanley** - 
+- **Estelle Guéville** - Ph.D. student in Medieval Studies, Yale University
+- **Michelle Lacoste Adunka** - Ph.D. student in History, Pontificia Universidad Católica de Chile
+- **Alan Mendoza** - Ph.D. student in Spanish and Portuguese, Yale University
+- **Serena Strecker** - Ph.D. student in History, Yale University
+
+- **Alex Gil**, Ph.D. - Senior Lecturer II & Associate Research Faculty of Digital Humanities, Yale University
 
 <br>
 
-### With the support of
+## With the support of
 
 - **Nicholas F. Bellantoni**, PhD - State Archaeologist in charge of the discovery
 Emeritus Connecticut State Archaeologist
