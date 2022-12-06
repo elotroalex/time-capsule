@@ -44,12 +44,11 @@ search:
       uprooted:
         content: true # whether or not to index page content
         fields: # the metadata fields to index
+          - object
+          - institution
           - artist
-          - location
-          - label
-          - _date
-          - object_type
-          - current_location
+          - museum_dating
+          - country_provenance
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS

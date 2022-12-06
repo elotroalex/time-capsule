@@ -1,0 +1,78 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/43/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "43",
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/43_US Quarter (43)(1)/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/43_US Quarter (43)(1).json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/43_US Quarter (43)(1).json",
+          "label": "Page 1",
+          "width": 1038,
+          "height": 1412,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/43_US Quarter (43)(1)/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/43_US Quarter (43)(1).json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/43_US Quarter (43)(1)/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/43_US Quarter (43)(1)",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 519,
+                "height": 706
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/43_US Quarter (43)(1).json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/43_US Quarter (43).json",
+          "label": "Page 2",
+          "width": 730,
+          "height": 820,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/43_US Quarter (43)/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/43_US Quarter (43).json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/43_US Quarter (43)/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/43_US Quarter (43)",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 365,
+                "height": 410
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/43_US Quarter (43).json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/43_US Quarter (43)(1)/full/full/0/default.jpg",
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/43_US Quarter (43)(1)/full/1140,/0/default.jpg"
+}

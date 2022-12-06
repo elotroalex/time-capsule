@@ -1,0 +1,45 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/36_MSS 325, box 1 folder f 001",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1443,
+  "height": 1222,
+  "sizes": [
+    {
+      "width": 1443,
+      "height": 1222
+    },
+    {
+      "width": 250,
+      "height": 212
+    },
+    {
+      "width": 1140,
+      "height": 965
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}
