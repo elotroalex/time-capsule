@@ -130,15 +130,14 @@
               />
               <div class="card-body">
                 <a href="{{ item.url | relative_url }}"
-                  ><h3 class="card-title">{{ item.label }}</h3></a
+                  ><h3 class="card-title">{{ item.object }}</h3></a
                 >
 
                 <!-- CONSTRUCTED CARD TEXT
         Replace the constructed text below with your own card message -->
 
                 <p class="card-text small">
-                  A {{item.object}} from {{item.country_provenance}} ({{item.museum_dating}}).
-                </p>
+                  {{item.museum_dating}} </p>
               </div>
             </div>
           </div>
