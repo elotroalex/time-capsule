@@ -7,12 +7,12 @@ permalink: /credits/
 
 ## Our team
 
-- **Isabela Alvarado** - 
-- **Madeleine Cepeda-Hanley** - 
-- **Estelle Guéville** - Ph.D. student in Medieval Studies, Yale University
-- **Michelle Lacoste Adunka** - Ph.D. student in History, Pontificia Universidad Católica de Chile
-- **Alan Mendoza** - Ph.D. student in Spanish and Portuguese, Yale University
-- **Serena Strecker** - Ph.D. student in History, Yale University
+- **Isabela Alvarado** - B.A. Student, Yale University College
+- **Madeleine Cepeda-Hanley** - B.A. Student, Yale University College
+- **Estelle Guéville** - Ph.D. Student in Medieval Studies, Yale University
+- **Michelle Lacoste Adunka** - Ph.D. Student in History, Pontificia Universidad Católica de Chile
+- **Alan Mendoza** - Ph.D. Student in Spanish and Portuguese, Yale University
+- **Serena Strecker** - Ph.D. Student in History, Yale University
 
 - **Alex Gil**, Ph.D. - Senior Lecturer II & Associate Research Faculty of Digital Humanities, Yale University
 

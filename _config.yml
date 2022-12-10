@@ -45,8 +45,9 @@ search:
         content: true # whether or not to index page content
         fields: # the metadata fields to index
           - object
+          - label
           - institution
-          - artist
+          - type
           - museum_dating
           - country_provenance
 
