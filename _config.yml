@@ -44,7 +44,6 @@ search:
       uprooted:
         content: true # whether or not to index page content
         fields: # the metadata fields to index
-          - object
           - label
           - institution
           - type
