@@ -18,8 +18,8 @@ layout: none
           "@type": "sc:Canvas",
           "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/u36_0.json",
           "label": "Page 1",
-          "width": 1578,
-          "height": 1702,
+          "width": 1737,
+          "height": 1764,
           "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/u36_0/full/250,/0/default.jpg",
           "images": [
             {
@@ -35,8 +35,8 @@ layout: none
                   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/u36_0",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
-                "width": 789,
-                "height": 851
+                "width": 1737,
+                "height": 1764
               },
               "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/u36_0.json"
             }
@@ -46,8 +46,8 @@ layout: none
           "@type": "sc:Canvas",
           "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/u36_1.json",
           "label": "Page 2",
-          "width": 1737,
-          "height": 1764,
+          "width": 1443,
+          "height": 1222,
           "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/u36_1/full/250,/0/default.jpg",
           "images": [
             {
@@ -63,8 +63,8 @@ layout: none
                   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/u36_1",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
-                "width": 1737,
-                "height": 1764
+                "width": 1443,
+                "height": 1222
               },
               "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/u36_1.json"
             }
@@ -74,8 +74,8 @@ layout: none
           "@type": "sc:Canvas",
           "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/u36_2.json",
           "label": "Page 3",
-          "width": 1443,
-          "height": 1222,
+          "width": 1578,
+          "height": 1702,
           "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/u36_2/full/250,/0/default.jpg",
           "images": [
             {
@@ -91,8 +91,8 @@ layout: none
                   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/u36_2",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
-                "width": 1443,
-                "height": 1222
+                "width": 789,
+                "height": 851
               },
               "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/u36_2.json"
             }
