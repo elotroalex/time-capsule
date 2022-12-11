@@ -31,7 +31,7 @@ transitive verb
 While most of the objects found in the time capsule are related to Abraham Lincoln’s centennial and its local celebration, the capsule also includes nine newspapers published in New Haven the day of the burial. There, we can read about the matters that were important to the people that lived in this city at the beginning of the 20th century, and see how news circulated before the internet and the expansion of national newspapers.
 
 <figure>
-  <img src="/time-capsule/assets/figures/indexA.jpg" alt="Fig1" style="width:50%">
+  <img src="/time-capsule/assets/figures/indexA.jpg" alt="Fig1" style="width:50%" class="center">
   <figcaption>Figure 2: The Opening of the Capsule</figcaption>
 </figure> 
  
