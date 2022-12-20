@@ -32,7 +32,7 @@ While most of the objects found in the time capsule are related to Abraham Linco
 
 <figure>
   <img src="/assets/figures/indexA.jpg" alt="Fig2" style="width:50%" class="center">
-  <figcaption>Figure 2: The Opening of the Capsule</figcaption>
+  <figcaption>Figure 2: The Opening of the Capsule. Picture: ©Robert Lombardo</figcaption>
 </figure> 
  
 This project was possible thanks to the generous help of the staff of the New Haven Museum, especially Edward Surato. This institution will preserve the time capsule and some of its history for future generations, alongside the other treasures preserved at the Whitney Library. We also are grateful to Professor Nicholas Bellantoni, who was the main archeologist involved in the excavation that led to the discovery of the time capsule, and who has given us valuable accounts, pictures, and details of a process that involved the Bomb Squad of New Haven Police Department. 
